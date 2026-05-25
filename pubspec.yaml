@@ -1,8 +1,18 @@
 name: alterione_sdk
-description: A starting point for Dart libraries or applications.
+description: Official Dart SDK for building AlteriOne-compatible modules, plugins, and skills — provides interfaces, contracts, data models, and MCP base classes.
 version: 0.0.1
+homepage: https://alteri.one
 repository: https://github.com/AlteriOne/alterione-sdk
 issue_tracker: https://github.com/AlteriOne/alterione-sdk/issues
+documentation: https://alteri.one/docs
+
+topics:
+  - ai
+  - sdk
+  - agent
+  - llm
+  - mcp
+  - plugin
 
 environment:
   sdk: ^3.11.5
